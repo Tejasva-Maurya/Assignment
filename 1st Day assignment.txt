@@ -1,0 +1,46 @@
+Answer 1 : After running the code variable becon contain 23 .
+
+Answer 2 : The values of the following 2 terms are 'spam' + 'spamspam' = 'spamspamspam'
+'spam'*3 = 'spamspamspam'
+
+Answer 3 : Differnce b/w break and continue is 
+The break statement can terminate a loop immediately and the control passes over to the statement following the statement containing break.
+The continue statement abandons the current iteration of the loop by skipping over the rest of the statements in the loop-body.
+
+Answer 4 : Difference b/w range(10) , range(0,10) and range(0,10,1) is 
+range (10) is a range(<lower limit>) type function which produce a list which have lower limit 10 .
+range (0,10) is a range (<lower limit> , <upper limit>) type function which produce a list which have lower limit 0 and upper limit 10.
+range (0,10,1) is a range (<lower limit> , 
+<upper limit> , <step>) type function which produce a list which have lower limit 0 , upper limit 10 and number having gap of 1 .
+
+Answer 5 :
+for a in range(1,11):
+	print (a)
+
+USING WHILE LOOP :
+
+a= 0
+while a <= 9 :
+	a+=1
+	print (a)
+
+Answer 6 : 
+
+
+
+Answer 7 : 
+x = 0
+sum = 0
+n = int(input ('natural no.'))
+for x in range (0,n) :
+	x +=1
+	sum += x**2
+print ('sum of first ' , n , 'numbers is ' , sum)
+
+Answer 8 :
+x = input ('what do you want to reverse ')
+print(x[ : :-1])
+
+Answer 9 :
+
+Answer 10 :
